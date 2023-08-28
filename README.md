@@ -1,10 +1,12 @@
 
 **Step 1: Background/Problem Definition** 
+
 My personal experience with credit card fraud served as a catalyst for my interest in developing a robust credit card fraud detection system. Having encountered a situation where my credit card was compromised and used to pay off someone else's college tuition, I realized the stress that fraudulent transactions can have on individuals - contacting banks, providing proof of location, etc. While I support the pursuit of education, I found myself deeply frustrated by the violation of my financial security. 
 
 The goal of this project is to develop an accurate and efficient credit card fraud detection system that operates in real-time. The system should **classify** incoming credit card transactions as either fraudulent or non-fraudulent. The project will utilize historical credit card transaction data to train and evaluate the model. The focus will be on detecting unauthorized transactions and account takeovers. Given the imbalanced nature of the dataset, techniques such as oversampling and undersampling will be employed to address class imbalance.
 
 **Step 2: Data Collection** 
+
 We are going to use a dataset available from kaggle:
 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud

@@ -60,8 +60,6 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 **Step 12: Reporting and Visualization** Create reports and dashboards summarizing the effectiveness of the fraud detection system. Visualize key metrics, trends, and anomalies for stakeholders.
 
-**Step 13: Deployment** Deploy the fraud detection system to production, integrating it seamlessly into the transaction processing pipeline.
-
 **Outcomes and Benefits:**
 
 -   A robust credit card fraud detection system that identifies potentially fraudulent transactions in real-time.
